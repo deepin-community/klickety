@@ -1,0 +1,1 @@
+ecm_install_icons(ICONS 128-apps-klickety.png  128-apps-ksame.png  16-apps-klickety.png  16-apps-ksame.png  22-apps-klickety.png  22-apps-ksame.png  32-apps-klickety.png  32-apps-ksame.png  48-apps-klickety.png  48-apps-ksame.png  64-apps-klickety.png  64-apps-ksame.png DESTINATION ${KDE_INSTALL_ICONDIR} THEME hicolor)
